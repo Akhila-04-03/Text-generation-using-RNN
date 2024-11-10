@@ -43,9 +43,9 @@ This project uses a Recurrent Neural Network (RNN) to generate text that emulate
 ![image](https://github.com/user-attachments/assets/65c6840a-4b83-44ca-8f29-387592b965da)
 
   
-  ```
+ ```
 
-#### Contact
+## Contact
 For questions or feedback, feel free to reach out:
 
 Email: raveendranakhila629@gmail.com
