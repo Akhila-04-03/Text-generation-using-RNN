@@ -1,7 +1,7 @@
 
 ---
 
-# Shakespearean Text Generation with RNN
+# Text Generation with RNN
 
 This project uses a Recurrent Neural Network (RNN) to generate text that emulates the style of William Shakespeare. Built with TensorFlow and Keras, the model learns from sequences of characters in Shakespeare’s works to predict the next character, resulting in generated text with Shakespearean language characteristics.
 
@@ -35,4 +35,9 @@ This project uses a Recurrent Neural Network (RNN) to generate text that emulate
   Where pretty time without mine: you are full of twate
   ```
 
-###  Contact 
+#### Contact
+For questions or feedback, feel free to reach out:
+
+Email: raveendranakhila629@gmail.com
+
+LinkedIn: [Akhila Raveendran](https://www.linkedin.com/in/akhila-raveendran-pm/)
