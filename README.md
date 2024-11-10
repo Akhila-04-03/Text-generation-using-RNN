@@ -1,11 +1,13 @@
 
+
+
 ---
 
-# Text Generation with RNN
+#  Text Generation with RNN
 
 This project uses a Recurrent Neural Network (RNN) to generate text that emulates the style of William Shakespeare. Built with TensorFlow and Keras, the model learns from sequences of characters in Shakespeare’s works to predict the next character, resulting in generated text with Shakespearean language characteristics.
 
-## Project Summary
+## Overview
 
 - **Objective**: Generate text resembling Shakespeare's writing style.
 - **Model Architecture**:
@@ -24,9 +26,10 @@ This project uses a Recurrent Neural Network (RNN) to generate text that emulate
 - **Loss Function**: Sparse Categorical Crossentropy, suitable for character-level classification.
 - **Epochs**: Trained for 10 epochs, with checkpoints saved at each stage.
 - **Training Progress**: Loss decreased from 3.06 at Epoch 1 to 1.15 at Epoch 10, indicating effective model learning.
-- Following figure illustrates training process of text generation.
-  
-  ![image](https://github.com/user-attachments/assets/d9af2dcb-c663-4cc7-ad72-c3f1b511f3c8)
+
+- Following figure illustrates the training process of text generation:
+
+![image](https://github.com/user-attachments/assets/c13a2d3e-b403-4347-8260-87a6cdd763b9)
 
 
 ## Text Generation
@@ -37,17 +40,16 @@ This project uses a Recurrent Neural Network (RNN) to generate text that emulate
   ROMEO:
   Thou say, none as first loed of! Gentle king,
   Where pretty time without mine: you are full of twate
+  ```
 
+  Text generation sampling illustration:
   
-  - Following figure shows the Text generation sampling
-![image](https://github.com/user-attachments/assets/65c6840a-4b83-44ca-8f29-387592b965da)
+   ![image](https://github.com/user-attachments/assets/3c4dab10-3f19-45fe-828f-749bff9cec42)
 
-  
- ```
+## Contact Information
 
-## Contact
-For questions or feedback, feel free to reach out:
+- **Author**: Akhila Raveendran P M
+- **Email**: [raveendranakhila629@gmail.com](mailto:raveendranakhila629@gmail.com)
+- **LinkedIn**: [Akhila Raveendran](https://www.linkedin.com/in/akhila-raveendran-pm/)
 
-Email: raveendranakhila629@gmail.com
-
-LinkedIn: [Akhila Raveendran](https://www.linkedin.com/in/akhila-raveendran-pm/)
+---
