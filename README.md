@@ -24,6 +24,8 @@ This project uses a Recurrent Neural Network (RNN) to generate text that emulate
 - **Loss Function**: Sparse Categorical Crossentropy, suitable for character-level classification.
 - **Epochs**: Trained for 10 epochs, with checkpoints saved at each stage.
 - **Training Progress**: Loss decreased from 3.06 at Epoch 1 to 1.15 at Epoch 10, indicating effective model learning.
+  ![image](https://github.com/user-attachments/assets/d9af2dcb-c663-4cc7-ad72-c3f1b511f3c8)
+
 
 ## Text Generation
 
